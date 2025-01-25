@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+flask
+gym
+torch
+tensorflow
+scikit-learn
+moviepy
+flask-cors
+requests
+gunicorn
